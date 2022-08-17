@@ -21,5 +21,5 @@ Web scraping was done in the IMDB website to scrape the movies and there respect
 pip install -r requirements.txt
 
 # Run the main.py in terminal
-Enter the movie name.
+Enter the movie name. Then it will recommend similar kinds of movies for you.
 ```
